@@ -1,6 +1,6 @@
 # SQL Sorgu Kodları ve Uygulamaları
 
-Bu depo, çeşitli SQL sorgu örneklerini ve gerçek dünya uygulamalarını içermektedir. Aşağıdaki konuları kapsamaktadır:
+Bu depo, çeşitli SQL sorgu örneklerini ve gerçek dünya uygulamalarını içermektedir. Aşağıdaki konuları kapsamaktadır(Uygulanan veri tabanı dvdrental):
 
 - **Temel Sorgular**: SELECT, INSERT, UPDATE, DELETE
 - **İleri Seviye Sorgular**: JOIN'ler, GROUP BY, HAVING, Alt Sorgular ve daha fazlası
